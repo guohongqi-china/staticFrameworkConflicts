@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_StaticLibraryConflicts_StaticLibraryConflictsUITests : NSObject
+@end
+@implementation PodsDummy_Pods_StaticLibraryConflicts_StaticLibraryConflictsUITests
+@end

@@ -1,0 +1,25 @@
+{
+  "name": "AFKitModule",
+  "version": "0.1.0",
+  "summary": "A short description of AFKitModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guohq/AFKitModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guohq": "guohongqi9010@zto.com"
+  },
+  "source": {
+    "git": "https://github.com/guohq/AFKitModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AFKitModule/Classes/*",
+  "vendored_frameworks": "AFKitModule/Classes/lib/*.framework",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

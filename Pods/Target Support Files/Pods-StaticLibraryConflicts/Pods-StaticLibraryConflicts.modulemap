@@ -1,0 +1,6 @@
+framework module Pods_StaticLibraryConflicts {
+  umbrella header "Pods-StaticLibraryConflicts-umbrella.h"
+
+  export *
+  module * { export * }
+}

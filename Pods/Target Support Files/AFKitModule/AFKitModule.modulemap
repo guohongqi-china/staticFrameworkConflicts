@@ -1,0 +1,6 @@
+framework module AFKitModule {
+  umbrella header "AFKitModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

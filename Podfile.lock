@@ -1,0 +1,23 @@
+PODS:
+  - AFKitModule (0.1.0)
+  - Alamofire (5.7.1)
+
+DEPENDENCIES:
+  - AFKitModule (from `Modules/AFKitModule`)
+  - Alamofire
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  AFKitModule:
+    :path: Modules/AFKitModule
+
+SPEC CHECKSUMS:
+  AFKitModule: faadf0487e48d4e550d4d06bbb526ff9ed66df27
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+
+PODFILE CHECKSUM: 303b4f8ea3b00d755fe8b15597b8d6cb91e1f19f
+
+COCOAPODS: 1.12.1
